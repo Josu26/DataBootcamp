@@ -1,50 +1,20 @@
-# 📊 Data Bootcamp – Josué D. Pérez Castillo
+# Data Bootcamp — Early Learning Archive
 
-👋 ¡Bienvenido/a!  
-Este repositorio contiene mi camino de aprendizaje práctico en **Data Analytics**:
-Python 🐍 · SQL 💾 · Power BI/Tableau 📈  
+**Historical coursework and practice exercises · Python / SQL / BI**
 
----
+This repository documents early hands-on learning in data analytics. It is retained as an archive of foundations, not as a description of my present role or a current multi-week programme.
 
-## 🧠 Estructura
+## Contents
 
-Week1/
-│── python/ → notebooks y scripts de análisis
-│── sql/ → consultas y bases de datos
-│── powerbi/ → dashboards y visualizaciones
-│── notes/ → apuntes personales
-│── media/ → imágenes y gráficos
+- `Week1/` — introductory exercises and materials.
+- `README.md` — context for the archive.
 
-yaml
-Copy code
+The earlier learning plan mentioned later weeks and advanced work. Those plans should not be treated as completed deliverables unless corresponding files exist in the repository.
 
----
+## What this demonstrates
 
-## 🚀 Semana 1 – Fundamentos
+Exploration of basic programming and analytical concepts. For publicly reviewable applied BI artifacts, see the [Business Analytics Case Study](https://github.com/Josu26/business-analytics-junior-case-study) and [Canary Islands Tourism Analytics](https://github.com/Josu26/kanarytour_frontur_analytics).
 
-- ✅ Entorno Python 3.9 configurado (Miniconda + Jupyter)
-- ✅ Primer notebook `basics.ipynb` ejecutado  
-- ✅ Gráfico de profit por producto con Matplotlib  
-- ✅ Repositorio estructurado y visible en GitHub  
+## Status
 
----
-
-## 📈 Próximos pasos
-
-- Semana 2 → Power BI / Storytelling  
-- Semana 3 → SQL avanzado + Dashboard final  
-- Semana 4 → Proyecto integrado y portfolio público  
-
----
-
-## 🧩 Sobre mí
-
-**Josué D. Pérez Castillo**  
-Data Analyst en construcción | Python · SQL · BI  
-📍 España  
-📧 [jdpc13@gmail.com] 
-| [GitHub](https://github.com/Josu26)
-
----
-
-⭐️ *“Turning data into stories that drive decisions.”*
+Historical / not actively presented as a production application. No ongoing support, automated quality gates or deployment claim is made.
